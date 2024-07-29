@@ -1,0 +1,45 @@
+body{   
+    background: yellowgreen;  
+}  
+
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+.registration-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+#btn{  
+    color: #fff;  
+    background: red;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  
+/* CSS for full size image */
+img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: auto; /* Maintain aspect ratio */
+}
+table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px; /* Added for spacing */
+        }
+        table, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        td {
+            background-color:lightblue;
+        }
